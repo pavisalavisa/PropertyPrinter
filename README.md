@@ -1,2 +1,3 @@
 # PropertyPrinter
-Print all properties in files which contain certain name
+Print all properties in your assembly which contain certain string.
+Default output folder is MyDocuments.
